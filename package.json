@@ -1,0 +1,38 @@
+{
+  "name": "generator-bdd",
+  "version": "1.0.0",
+  "description": "generator-bdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattiaerre/generator-bdd.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": {
+    "name": "Mattia Richetto",
+    "email": "mattia.richetto@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattiaerre/generator-bdd/issues"
+  },
+  "homepage": "https://github.com/mattiaerre/generator-bdd#readme",
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  },
+  "files": [
+    "app"
+  ],
+  "devDependencies": {
+    "eslint": "^3.5.0",
+    "eslint-config-airbnb": "^11.1.0",
+    "eslint-plugin-import": "^1.15.0",
+    "eslint-plugin-jsx-a11y": "^2.2.2",
+    "eslint-plugin-react": "^6.2.2"
+  }
+}

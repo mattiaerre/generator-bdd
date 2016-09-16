@@ -1,0 +1,8 @@
+{
+  "name": "generator-bdd",
+  "version": "1.0.0",
+  "scripts": {
+    "coverage": "istanbul cover _mocha test --  --recursive",
+    "test": "mocha --recursive"
+  }
+}
