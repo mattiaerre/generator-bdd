@@ -15,7 +15,7 @@ $ npm install -g yo generator-bdd
 cd to your application's directory that contains already a package.json, then:
 
 ```
-$ yo generator-bdd
+$ yo bdd
 ```
 
 The generator will add/update the following items to your application:
