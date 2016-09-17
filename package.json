@@ -1,8 +1,8 @@
 {
   "name": "generator-bdd",
   "version": "1.0.0",
-  "description": "generator-bdd",
-  "main": "index.js",
+  "description": "A Yeoman generator that makes it easy to start writing unit tests within your Node.js application.",
+  "main": "app/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +11,16 @@
     "url": "git+https://github.com/mattiaerre/generator-bdd.git"
   },
   "keywords": [
+    "bdd",
+    "chai",
+    "coverage",
+    "mocha",
+    "generator",
+    "istanbul",
+    "sinon",
+    "test",
+    "tdd",
+    "yeoman",
     "yeoman-generator"
   ],
   "author": {
